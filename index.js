@@ -1,4 +1,4 @@
-import { getShowData, getEpisodeList } from "/src/services/tvmaze.js";
+import { getShowData, getEpisodeList } from "./services/tvmaze.js";
 
 const ID = "2993";
 
